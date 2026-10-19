@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jannin 👋
 
-<!--
-**jannin-barrios/jannin-barrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I've always loved telling stories.
 
-Here are some ideas to get you started:
+Then I discovered that some of the most interesting stories aren't written in words — **they're hidden in data.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That's what brought me to **Data & AI**.
+
+Now I'm learning how to find those stories, understand what they're really saying, and turn them into **things that solve real problems.**
+
+---
+
+## ✨ What you'll find here
+
+This GitHub is where I **build, experiment, learn, and turn ideas into things.**
+
+📊 **Data & AI** — finding the stories behind the numbers  
+🚀 **Entrepreneurship** — turning problems into ideas and ideas into projects  
+🧪 **Experiments** — things I build just because I want to see if they work  
+🎓 **Mines Paris** — cool things I create while learning  
+
+---
+
+## 🛠️ Currently exploring
+
+`Data` · `AI` · `Python` · `Git` · `Automation` · `Business`
+
+---
+
+### And this is just the beginning :)
